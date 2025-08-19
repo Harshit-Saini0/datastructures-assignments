@@ -1,0 +1,12 @@
+# Ignore common build outputs and IDE/OS junk
+bin/
+out/
+target/
+*.class
+
+.classpath
+.project
+.settings/
+
+.DS_Store
+Thumbs.db
